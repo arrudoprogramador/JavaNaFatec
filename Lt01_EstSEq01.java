@@ -1,17 +1,17 @@
 import javax.swing.*;
 
-public class Primeiro_Programa {
+public class Lt01_EstSeq01 {
 	
 	public static void main(String[] args) {
 		
-		double salario = 0, reajuste = 0;
+		int lado = 0, area = 0;
 		
-		salario = Double.parseDouble(JOptionPane.showInputDialog("Salário para cálculo de reajuste:"));
+		lado = Integer.parseInt(JOptionPane.showInputDialog("Digite o lado do quadrado:"));
 		
-		reajuste = (salario*1.15);
+		area = lado * lado;
 		
-		JOptionPane.showMessageDialog(null, "Valor com reajuste: " + reajuste);
-
+		JOptionPane.showMessageDialog(null, "Area do quadrado: " + area);
 		
 	}
+
 }

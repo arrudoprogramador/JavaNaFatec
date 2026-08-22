@@ -4,9 +4,9 @@ public class EstSeq05 {
 	public static void main(String[] args) {
 		Double a = 0.0, b = 0.0, c = 0.0, delta,  raiz1, raiz2;
 		
-		a = Double.parseDouble(JOptionPane.showInputDialog("Digite os graus Celsius: "));
-		b = Double.parseDouble(JOptionPane.showInputDialog("Digite os graus Celsius: "));
-		c = Double.parseDouble(JOptionPane.showInputDialog("Digite os graus Celsius: "));
+		a = Double.parseDouble(JOptionPane.showInputDialog("Digite o valor de a: "));
+		b = Double.parseDouble(JOptionPane.showInputDialog("Digite o valor de b: "));
+		c = Double.parseDouble(JOptionPane.showInputDialog("Digite o valor de c: "));
 
 		delta = ((b * b) - 4 * a * c);
 		

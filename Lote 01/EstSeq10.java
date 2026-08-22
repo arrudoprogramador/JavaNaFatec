@@ -13,7 +13,6 @@ public class EstSeq10 {
 		else {
 			diferenca = numero2 - numero1;
 		}
-
 		
 		JOptionPane.showMessageDialog(null, "A difereça é de: " + diferenca);	
 	}

@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Lt01_EstSeq02 {
+public class EstSeq02 {
 	
 	public static void main(String[] args) {
 		

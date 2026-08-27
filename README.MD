@@ -1,4 +1,1 @@
 <p align="center"> <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-FF9800?style=for-the-badge" /> <img src="https://img.shields.io/badge/FATEC-Zona%20Leste-9C27B0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Foco-Aprendizado%20Prático-4CAF50?style=for-the-badge" /> </p> <h1 align="center">☕ Exercícios de Linguagem de Programação</h1> <p align="center"><i>Fatec Zona Leste — todos os exercícios resolvidos em Java</i></p> <br>
-
-Lista de exercícios da matéria de linguagem de
-Programação, da Fatec Zona Leste.
